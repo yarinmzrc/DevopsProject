@@ -33,7 +33,7 @@
 <div class="container">
   <div class="card-1">
     <h2>
-      Supervisor & orGvili
+      Supervisor
     </h2>
     <p>
       Monitors activity to identify project roadblocks
@@ -72,16 +72,6 @@
   </div>
 
 </div>
-
-
-
-  
-  <footer>
-    <p class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a href="https://github.com/yarinmzrc">Yarin Mizrachi</a>.
-    </p>
-  </footer>
  
  <style> 
   * {
