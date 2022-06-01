@@ -33,7 +33,7 @@
 <div class="container">
   <div class="card-1">
     <h2>
-      Supervisor
+      Supervisor & orGvili
     </h2>
     <p>
       Monitors activity to identify project roadblocks
