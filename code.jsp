@@ -53,7 +53,7 @@
   </div>
   <div class="card-3">
     <h2>
-      Karma &&
+      Karma 
     </h2>
     <p>
       Regularly evaluates our talent to ensure quality
